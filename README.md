@@ -1,3 +1,3 @@
-# daily-build-log
+# oxcmd/daily-build-log
 
-Builder mode đã bật.
+Builder mode bat.
